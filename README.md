@@ -20,12 +20,11 @@ Hi there! I'm a passionate **Python developer** and **Unreal Engine 5 game dev**
 ## My Other Projects
 
 - My games: [https://fwextx.itch.io](https://fwextx.itch.io/)
-- Crave Studios: [https://dsc.gg/cravestudios](https://dsc.gg/cravestudios)
+
 ---
 
 ## How to reach me?
 
-- Discord Server: [https://dsc.gg/cravestudios](https://dsc.gg/cravestudios)
 - Buisness/Copyright Takedowns only: cravely.email@gmail.com
 
 ---
