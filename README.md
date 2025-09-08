@@ -23,10 +23,4 @@ Hi there! I'm a passionate **Python developer** and **Unreal Engine 5 game dev**
 
 ---
 
-## How to reach me?
-
-- Buisness/Copyright Takedowns only: cravely.email@gmail.com
-
----
-
 Thanks for reading this! Feel free to use any of my projects or reach out if you want to collaborate.
