@@ -11,7 +11,8 @@ Hi there! I'm a passionate **Python developer** and **Full-stack Developer** bas
 
 ---
 ## Check out my new project!
-[Portfolio Builder Project](https://github.com/fwextx/PortfolioBuilder) \n
+[Portfolio Builder Project](https://github.com/fwextx/PortfolioBuilder)
+### Direct Link to Builder
 [Direct Link](https://fwextx.github.io/PortfolioBuilder)
 
 Thanks for taking a look at my projects and my skills! For more projects, check out the Repositories tab!
